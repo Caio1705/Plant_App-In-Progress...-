@@ -61,7 +61,6 @@ class ViewAll extends StatelessWidget {
                 const Aglaonema1(),
                 const Aglaonema1(),
                 const Aglaonema1(),
-                const Aglaonema1(),
                 SizedBox(height: dimensions)
               ],
             ),
