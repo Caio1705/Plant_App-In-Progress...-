@@ -48,6 +48,8 @@ dependencies:
   hexcolor: ^2.0.7
   google_fonts: ^3.0.1
   flutter_tabler_icons: ^1.1.1
+  dio: ^4.0.6
+  retrofit_generator: ^2.0.0-beta1
 
 dev_dependencies:
   flutter_test:
