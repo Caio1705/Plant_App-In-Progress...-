@@ -7,6 +7,6 @@ Home Page Top Pick             |  Home Page Popular
 Home Page Indoor             |  Home Page Outdoor
 :-------------------------:|:-------------------------:
 ![Screenshot_1661818362](https://user-images.githubusercontent.com/106937639/187449018-32ef86d3-2380-4d79-a33a-78f7902c6012.png)|![Screenshot_1661818363](https://user-images.githubusercontent.com/106937639/187449021-0f2691d1-4718-4d0a-a716-a7e3ed729f19.png)
-Home Page All plants             |
+Home Page All plants            |
 :-------------------------:|:-------------------------:
 ![Screenshot_1661818367](https://user-images.githubusercontent.com/106937639/187449032-9d131baa-1166-4b74-a7e2-4740e07f4e5d.png)|
