@@ -26,7 +26,7 @@ class TopPick extends StatelessWidget {
               scrollDirection: Axis.horizontal,
               child: Row(
                 children: [
-                  const Aglaneoma(),
+                  Aglaneoma(),
                   const TigerPiran(),
                   const MoneyTree(),
                   const RubberPlant(),
